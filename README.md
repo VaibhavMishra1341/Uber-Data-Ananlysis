@@ -62,6 +62,5 @@ The analysis in this project is inspired by the Kaggle community and the open-so
 
 If you find this analysis useful or have any suggestions, please feel free to reach out and provide feedback.
 
-## **Happy analyzing!**
-<br>
-<br>
+**Happy analyzing!**
+
