@@ -32,8 +32,8 @@ To run the analysis notebook locally, follow these steps:
 <pre>git clone https://github.com/VaibhavMishra1341/Uber-Data-Ananlysis.git</pre>
 
 2. Ensure that you have R and the required packages installed. You can install the necessary packages by running the following command in R:
-```R
-install.packages(c("tidyverse", "lubridate", "ggplot2", "leaflet", "plotly", "ggmap"))
+   
+<pre>install.packages(c("tidyverse", "lubridate", "ggplot2", "leaflet", "plotly", "ggmap"))</pre>
 
     - Open the notebook file (Uber_Data_Analysis.Rmd) in an R-compatible IDE or Jupyter Notebook environment.
 
