@@ -35,9 +35,9 @@ To run the analysis notebook locally, follow these steps:
    
 <pre>install.packages(c("tidyverse", "lubridate", "ggplot2", "leaflet", "plotly", "ggmap"))</pre>
 
-    - Open the notebook file (Uber_Data_Analysis.Rmd) in an R-compatible IDE or Jupyter Notebook environment.
+- Open the notebook file (Uber_Data_Analysis.Rmd) in an R-compatible IDE or Jupyter Notebook environment.
 
-    - Execute the code cells sequentially to reproduce the analysis. Modify the code or explore the data further to suit your needs.
+- Execute the code cells sequentially to reproduce the analysis. Modify the code or explore the data further to suit your needs.
 
 ## Contributing
 
