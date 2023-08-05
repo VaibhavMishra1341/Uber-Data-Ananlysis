@@ -6,6 +6,9 @@ This repository contains a comprehensive analysis of Uber data using the R progr
 
 The analysis is performed on a publicly available dataset from Kaggle, which contains Uber trip data. The dataset includes information such as date and time of trips, trip distances, pickup and drop-off locations, and other relevant attributes. The dataset provides a rich source of information for exploring different aspects of Uber's operations.
 
+![image](https://github.com/VaibhavMishra1341/Uber-Data-Ananlysis/assets/39896268/8a94b539-6185-4186-b122-890a0100a753)
+
+
 The dataset used for this analysis can be found at the following link:
 [Kaggle - Uber Data Analysis Dataset](https://www.kaggle.com/code/prakharrathi25/uber-data-analysis-in-r)
 
