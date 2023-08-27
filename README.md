@@ -1,5 +1,8 @@
 # Uber Data Analysis in R
 
+![maxresdefault](https://github.com/VaibhavMishra1341/Uber-Data-Ananlysis/assets/39896268/bed5ee2f-7fe3-453c-8ce2-fe79d249d8a3)
+
+
 This repository contains a comprehensive analysis of Uber data using the R programming language. The analysis explores various aspects of Uber's operations, including trip patterns, demand distribution, and peak hours. The project is implemented as an R notebook, making it easy to replicate and understand the analysis steps.
 
 ## Dataset
